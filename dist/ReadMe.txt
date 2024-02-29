@@ -1,0 +1,1 @@
+When using this application ensure that the fish.png is located in the same folder as the .exe file
