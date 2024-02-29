@@ -15,7 +15,7 @@ class NamePickerApp:
         self.window_size_var = tk.StringVar(value=self.get_window_size())
 
         # Load the background image directly using Tkinter PhotoImage
-        self.background_photo = tk.PhotoImage(file=r"C:\Users\Micha\OneDrive\Documents\GitHub\Apex-App\fish.png")
+        self.background_photo = tk.PhotoImage(file=r".\fish.png")
         self.background_label = tk.Label(master, image=self.background_photo)
         self.background_label.place(x=0, y=0, relwidth=1, relheight=1)
 
