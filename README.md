@@ -39,7 +39,9 @@ Feel free to contribute or provide suggestions to enhance the app.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) file for details.
 ```
 
 Note: Make sure to replace `your_script_name.py` with the actual name of your Python script if it's different. Also, add a screenshot of your app in the `./assets` directory and replace `screenshot.png` with the actual file name in the README.
